@@ -4,7 +4,7 @@
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://www.heroku.com/deploy/?template=https://github.com/RomaniaChat/luna)
 
 #### demo Netlify https://radio-click-romania.netlify.app
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c17d91e7-8e39-4b7b-9464-6579d2c39665/deploy-status)](https://app.netlify.com/sites/radio-click-romania/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fead116e-4cf6-4f6d-887c-61c209dc1584/deploy-status)](https://app.netlify.com/sites/radio-click-romania/deploys)
 
 ## Instalare Heroku
 ### 1 Creați un cont Heroku https://heroku.com 
@@ -15,7 +15,7 @@
 ### 6 Deploy App
 
 ## Instalare Netlify
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c17d91e7-8e39-4b7b-9464-6579d2c39665/deploy-status)](https://app.netlify.com/sites/radio-click-romania/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fead116e-4cf6-4f6d-887c-61c209dc1584/deploy-status)](https://app.netlify.com/sites/radio-click-romania/deploys)
 ### 1 Conectați Netlify la contul dvs. GitHub pentru a crea depozitul dvs. luna.
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RomaniaChat/luna)
 ### 2 Configurați site-ul. (Netlify Auth solicită permisiuni suplimentare)
